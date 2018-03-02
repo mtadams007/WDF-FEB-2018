@@ -1,5 +1,7 @@
 header{
   background-color:#ea5169;
+  display: flex;
+  justify-content: center;
 }
 #gallery{
   display: flex;
@@ -7,4 +9,9 @@ header{
 img{
   height:200px;
   width: auto;
+}
+footer{
+  display: flex;
+  background-color:#ea5169;
+  justify-content: space-around;
 }
