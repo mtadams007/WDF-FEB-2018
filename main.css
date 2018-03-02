@@ -3,15 +3,19 @@ header{
   display: flex;
   justify-content: center;
 }
-#gallery{
+/* #gallery{
   display: flex;
 }
 img{
   height:200px;
   width: auto;
+<<<<<<< HEAD
 }
 footer{
   display: flex;
   background-color:#ea5169;
   justify-content: space-around;
 }
+=======
+} */
+>>>>>>> parent of 1daba22... watermelon gallery created
